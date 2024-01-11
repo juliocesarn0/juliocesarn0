@@ -42,6 +42,13 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/juliocesarn0/juliocesarn0/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/juliocesarn0/juliocesarn0/blob/output/github-contribution-grid-snake.gif)
 
 ###
+
+<!-- Portfolio -->
+## Portfolio:
+- [Javascript - Calculadora de médias ](https://github.com/juliocesarn0/projeto_calculadora_medias)
+- [HTML - Meus jogos favoritos](https://github.com/juliocesarn0/Meus-jogos)
+- [EBAC - Curso sendo realizado na EBAC](https://github.com/juliocesarn0/curso_ebac_frontend)
+- [Node.js - API para recebimento de emails ](https://email3.vercel.app)
