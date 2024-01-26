@@ -38,13 +38,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-![snake gif](https://github.com/juliocesarn0/juliocesarn0/blob/output/github-contribution-grid-snake.gif)
-
-###
 
 <!-- Portfolio -->
 ## Portfolio:
