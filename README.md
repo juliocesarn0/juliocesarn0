@@ -6,7 +6,7 @@ Sou desenvolvedor focado em **front-end com React/TypeScript** e **back-end com 
 Gosto de construir produtos completos: autenticação, integrações, dashboards, testes e deploy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio%20Navarro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julionavarro01/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Online-111?style=for-the-badge&logo=vercel)](https://makerstorm.tv/) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-navatech.com.br-111?style=for-the-badge&logo=vercel)](https://navatech.com.br/)
 [![Discord](https://img.shields.io/badge/Discord-juliocesarn0-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/juliocesarn0)
 
 ---
