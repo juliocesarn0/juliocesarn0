@@ -31,7 +31,7 @@ Gosto de construir produtos completos: autenticação, integrações, dashboards
 - Resultado: projeto remunerado.
 
 ### 3) Bioterra — Em desenvolvimento
-**https://bioterra321.web.app/**
+**https://bioterraconsultoria.com.br/**
 - Dashboard e fluxo de serviços, **React/TS + Firebase**.  
 - Foco em UX, filtros, formulários e responsividade.
 
