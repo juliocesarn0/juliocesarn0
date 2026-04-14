@@ -9,7 +9,7 @@ Gosto de construir produtos completos: autenticação, integrações, dashboards
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio%20Navarro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julionavarro01/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-navatech.com.br-111?style=for-the-badge&logo=vercel)](https://julionavarro.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-julionavarro.netlify.app-111?style=for-the-badge&logo=netlify)](https://julionavarro.netlify.app)
 
 [![Discord](https://img.shields.io/badge/Discord-juliocesarn0-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/juliocesarn0)
 
